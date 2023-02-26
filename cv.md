@@ -9,7 +9,6 @@
 
 ### Education ###
 Kyiv National University of Trade and Economics 
-====
 Master degree with honour - Accounting and Taxation in International Business
 
 
