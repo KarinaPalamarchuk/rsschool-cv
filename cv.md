@@ -1,5 +1,7 @@
 ## Palamarchuk Karyna ##
 
+![photo](C:\Users\KPAL\OneDrive - Hempel Group\Desktop\New folder "my photo")
+
 ### Contact ###
 * Mobile:
 *  Email:
