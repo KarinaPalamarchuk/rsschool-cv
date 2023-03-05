@@ -3,9 +3,14 @@
 
 ### Contact ###
 * Mobile:
-    + +38 099 437 43 63- Viber , WhatsApp +48 786 462 161
+    + +38 099 437 43 63- Viber , WhatsApp +48 786 462 161  
 *  Email:
     + palamarchur15@gmail.com
+ * Github: 
+    + KarinaPalamarchuk
+* Discord:
+    + KarinaPalamarchuk#4352
+
 
 ### About Myself ###
 I like to learn something new and develop my soft and hard skills, so I decided to study Front-end. 
