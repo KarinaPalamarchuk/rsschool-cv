@@ -32,46 +32,17 @@ I like to learn something new and develop my soft and hard skills, so I decided 
 
 ### Code example ###
 
-``` <main>
-<a href="http://google.com" target="_blank">Link</a>
-<ul class="list">
-    <P>Accounts </P>
-    <li class="listItem">BS</li>
-    <li class="listItem">PL</li>
-    <li class="listItem">CF</li>
-</ul>
-<p class="listItem"> Point 4 </p>
+``` 
+   function factorial(n) {
+  if(n < 0) return null;
+  if (n <= 1) return 1;
+  return n * factorial(n-1);
+}  
 
-<table>
-      
-        <thead>
-           <td>Amount</td> 
-           <td>Amount2</td> 
-           <td>Amount3</td> 
-        </thead>
-<tbody>    
-    <tr>
-        <td>10</td>
-        <td>20</td>
-        <td>30</td>
-    </tr>
-   
-    <tr>
-        <td>40</td>
-        <td>50</td>
-        <td>60</td>
-    </tr>
-</tbody>
-</table>
-
-<img class="image" alt="AccountsPictures" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_UfGpgxqpGlEFz9PyqKIg_onOoHfPzz_wg&usqp=CAU"/>
-<div class="coolImage"></div>
-<form>
-    <input/>
-    <button>Submit</button>
-</form>
-</main>
 ```
+### Project ###
+
+
 ### Work Experience ###
 1. Limited liability company Mars Ukraine - *SAP  accountant* (09.2019 - 03.2021) 
 2. LLC TLV Ukraine, LLC NISARGO, Private entrepreneur -  *1C Chief Accountant* (03.2021 - 04.2022)
