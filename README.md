@@ -1,1 +1,1 @@
-https://KarinaPalamarchuk.github.io/rsschool-cv/
+https://KarinaPalamarchuk.github.io/rsschool-cv/cv
