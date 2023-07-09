@@ -1,3 +1,19 @@
- nav {
-    display: block;
+body {
+    background-color: rgba(211, 149, 149, 0.504);
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+.image2 {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+#footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
